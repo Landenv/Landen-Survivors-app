@@ -8,6 +8,10 @@
 
 ## Что нового (сборка от 30.10.2026)
 
+- Новый монах: своя модель автора с новым скелетом и анимациями, копьё крепко держит в кулаке.
+
+### Шестая сборка 30.10
+
 - Карточки испытаний: у каждого испытания своя вкладка с вращающейся 3D-моделью босса, описанием его приёмов и выбором сложности.
 - В «Авторах» указан автор и разработчик игры.
 
@@ -85,6 +89,6 @@
 
 ## Контрольные суммы (SHA-256)
 
-- LandenSurvivors.apk: `02d362925347ea37ef883b9ecd72c1a58e0a0862cd93963f1e635791944d1c38`
-- LandenSurvivors-Setup.exe: `d9849bbb6af4b97141a54bb4ca71439fc68cce65d20777211f26e45e7d248acc`
-- LandenSurvivors-portable.exe: `8274ebf4d4b586bd6ad14132adeaa322c46cff99ddd7df9b138c4cf883ec119b`
+- LandenSurvivors.apk: `5b3110df3563e15f709ec39a4819337fd19c581bf2ad410c3a8a62b4320f1f98`
+- LandenSurvivors-Setup.exe: `7eb065fd084117fc5a65e98d65695d47e8a23062278b5183e3cfeb91e1022db3`
+- LandenSurvivors-portable.exe: `ad63c101ecaca6e7d9b0ed85cac1c89f4cd1cc8d58e270978fd27753d9aa3521`
