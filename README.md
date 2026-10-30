@@ -1,10 +1,17 @@
 # Landen Survivors — Android и Windows
 
+Автор и разработчик — **Landen**.
+
 Готовые сборки игры **Landen Survivors** для Android и Windows: фэнтези-выживалка в 3D с аркадным режимом и мультиплеером по Wi-Fi и Bluetooth.
 
 Исходный код игры: [Landenv/Landen-Survivors](https://github.com/Landenv/Landen-Survivors).
 
 ## Что нового (сборка от 30.10.2026)
+
+- Карточки испытаний: у каждого испытания своя вкладка с вращающейся 3D-моделью босса, описанием его приёмов и выбором сложности.
+- В «Авторах» указан автор и разработчик игры.
+
+### Пятая сборка 30.10
 
 - **Версия для Windows:** установщик и портативный exe. Мультиплеер по Wi-Fi вместе с телефонами: ПК видит игры телефонов, телефоны — игры ПК.
 - Исправлено: друг с надетым комплектом мог не войти в мультиплеерную игру.
@@ -78,6 +85,6 @@
 
 ## Контрольные суммы (SHA-256)
 
-- LandenSurvivors.apk: `4be66d35032942b35b66a84c37b973ed9bf69b728d8d418754e06bd1eb536511`
-- LandenSurvivors-Setup.exe: `854ce47e7837999128d920d8b9e4b2d2e5452d49934df6683dd2e23b20c7e0d0`
-- LandenSurvivors-portable.exe: `e610ac18c393f2cdf6fbb8dea388fc3f937f4148f05562dae5854215daf200ea`
+- LandenSurvivors.apk: `02d362925347ea37ef883b9ecd72c1a58e0a0862cd93963f1e635791944d1c38`
+- LandenSurvivors-Setup.exe: `d9849bbb6af4b97141a54bb4ca71439fc68cce65d20777211f26e45e7d248acc`
+- LandenSurvivors-portable.exe: `8274ebf4d4b586bd6ad14132adeaa322c46cff99ddd7df9b138c4cf883ec119b`
